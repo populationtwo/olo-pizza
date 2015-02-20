@@ -1,0 +1,51 @@
+@import url(http://fonts.googleapis.com/css?family=Raleway:400,700);
+
+body {
+	background: #f0efee;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.dialog-list {
+	width: 80%;
+	max-width: 600px;
+	margin: 150px auto;
+}
+
+h1, h3, h4 {
+	font-family: 'Raleway', sans-serif;
+}
+
+.panel {
+	padding-bottom: 20px;
+}
+
+.panel h3 {
+	font-weight: 700;
+	font-size: 28px;
+	line-height: 1;
+	margin-bottom: 0;
+	color: #c3c8cd;
+
+}
+
+.num, .name {
+	color: #404d5b;
+
+}
+
+.info {
+	margin-top: 30px;
+	text-align: center;
+	width: 600px;
+	margin: 20px auto;
+}
+
+.info h1 {
+	font-size: 24px;
+	font-weight: 400;
+
+}
+
+.view {
+	font-size: 14px;
+}
